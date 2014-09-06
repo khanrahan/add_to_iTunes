@@ -1,0 +1,9 @@
+h1. Add to iTunes 
+
+An applescript droplet to quickly add movies with predetermined tags to your iTunes library.
+
+
+
+
+
+
